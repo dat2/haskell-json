@@ -1,0 +1,6 @@
+{
+  // comments
+  "hello": 1,
+  "test": [ true, false, null, {} ],
+  "hey": "again"
+}
