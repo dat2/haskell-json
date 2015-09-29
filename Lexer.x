@@ -1,5 +1,5 @@
--- copying https://github.com/simonmar/alex/blob/master/examples/haskell.x
--- also some from http://dev.stephendiehl.com/fun/008_extended_parser.html
+-- best resource for this
+-- https://github.com/dagit/happy-plus-alex
 
 {
 {-# OPTIONS_GHC -w #-}
